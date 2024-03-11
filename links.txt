@@ -1,2 +1,4 @@
-globo2
-www.uol.com
+https://www.example.com
+https://www.example.com
+https://www.example.com
+globo.com
